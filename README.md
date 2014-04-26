@@ -1,17 +1,10 @@
-Une bouteille dans la mer de Gaza
+Français Secondaire 3 & 4
 ================
 
-A simple HTML and CSS based website made for my friends and their French class exam. Nothing important.
+A simple HTML and CSS based website made for my friends and their French class exams. Nothing important ;).
 
-Un site très simpliste proposant mes notes du livre médiocre "Une bouteille dans la mer de Gaza".
+Un site très simpliste proposant mes notes des livre médiocre de mon l'école.
 
-How to use | Comment utiliser
-----------
+Lien au site :
 
-Simplement cliquer sur "download zip". Vous aurez surement besoin d'un extracteur ZIP tel que WinRAR (gratuit).
-
-
-License
--------
-
-Free to use and modify. I do not own anything shown in these files.
+https://iobsidian.github.io/index.html
