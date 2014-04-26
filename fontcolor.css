@@ -1,0 +1,85 @@
+body {
+  padding-left: 11em;
+  font-family: Georgia, "Times New Roman",
+        Times, serif;
+  color: #D8D8D8;
+  background-color: #101010 }
+
+ul.navbar {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  left: 1em;
+  width: 9em }
+
+h1 {
+  font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+
+  color: #ffffff; 
+
+      }
+
+h2 {
+  font-family: Helvetica, sans-serif;
+  color: #ffffff; 
+
+}
+
+h3 {
+  font-family: Helvetica, sans-serif;
+  color: #ffffff; 
+
+}
+
+
+times {
+    font-family: Times, "Times New Roman", sans-serif;
+
+
+}
+
+
+
+
+
+
+
+sup { 
+
+  color: #b2b2b2; 
+
+}
+
+
+
+b {
+
+  color: #f2f2f2; 
+
+}
+
+
+
+ul.navbar li {
+  background: #e7e7e7;
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-right: 1em solid black }
+
+ul.navbar a {
+  text-decoration: none }
+
+a:link {
+  color: blue 
+}
+
+a:visited {
+  color: purple 
+}
+
+address {
+  margin-top: 1em;
+  padding-top: 1em;
+  border-top: thin dotted }
