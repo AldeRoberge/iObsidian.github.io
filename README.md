@@ -6,7 +6,8 @@ Welcome! In here, you'll find ;
   - Documentation about how to use them
   - Magic
 
-> I don't like forgeting things, so I made a website.
+> «I don't like forgeting things, so I made a website.»
+
 - Alde
 
 ### Todo
